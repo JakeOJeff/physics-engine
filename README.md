@@ -1,4 +1,7 @@
-# Gravity Simulation
+![image](https://github.com/user-attachments/assets/f3c9d1ba-524a-4fef-a95d-dfe103823dc6)
+
+
+# Jakey's Physics Engine
 A real-time 2D gravity simulator built with LOVE2D.
 
 ## Features
