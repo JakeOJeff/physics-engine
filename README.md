@@ -25,6 +25,5 @@ A real-time 2D gravity simulator built with LOVE2D.
 - E + Scroll : Zoom in/out
 
 
-Executable Version
-
+## Executable Version
 An executable version is available ( **physicsbuildv1** ), bundled with the necessary dependency DLL files. Simply extract the folder and run the executable to start the simulation.
